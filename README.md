@@ -29,12 +29,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ws192&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws192&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ws192&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws192&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&count_private=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ws192&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9"/>
+  <img src="https://streak-stats.demolab.com/?user=ws192&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9"/>
 </p>
 
 ---
@@ -42,7 +42,23 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ws192&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ws192&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&cache_seconds=86400"/>
+</p>
+
+---
+
+### 🌟 GitHub Profile Highlights
+
+<p align="center">
+  <a href="https://github.com/ws192?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-4-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ws192">
+    <img src="https://img.shields.io/badge/Stars-0-E3B341?style=for-the-badge&logo=starship&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Followers-1-1DA1F2?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Following-3-FF6B6B?style=for-the-badge&logo=addthis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-11-2EA44F?style=for-the-badge&logo=gitea&logoColor=white"/>
 </p>
 
 ---
