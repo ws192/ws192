@@ -29,36 +29,64 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ws192&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws192&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&count_private=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ws192&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ws192&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&cache_seconds=86400"/>
-</p>
-
----
-
-### 🌟 GitHub Profile Highlights
-
-<p align="center">
-  <a href="https://github.com/ws192?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-4-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/ws192">
+    <img src="https://img.shields.io/badge/Repositories-4-56B4C2?style=flat-square&logo=github&logoColor=white&labelColor=1a1b27"/>
   </a>
   <a href="https://github.com/ws192">
-    <img src="https://img.shields.io/badge/Stars-0-E3B341?style=for-the-badge&logo=starship&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Total_Stars-0-E3B341?style=flat-square&logo=starship&logoColor=white&labelColor=1a1b27"/>
   </a>
-  <img src="https://img.shields.io/badge/Followers-1-1DA1F2?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Following-3-FF6B6B?style=for-the-badge&logo=addthis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contributions-11-2EA44F?style=for-the-badge&logo=gitea&logoColor=white"/>
+  <a href="https://github.com/ws192">
+    <img src="https://img.shields.io/badge/Total_Forks-0-F7768A?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27"/>
+  </a>
+  <img src="https://img.shields.io/badge/Languages-8-9ECE6A?style=flat-square&logo=codefactor&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Commits_This_Year-11-7AA2F7?style=flat-square&logo=gitea&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Public_Gists-0-BB9AF7?style=flat-square&logo=markdown&logoColor=white&labelColor=1a1b27"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ws192?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-1-38BDF8?style=flat-square&logo=addthis&logoColor=white&labelColor=1a1b27"/>
+  </a>
+  <a href="https://github.com/ws192?tab=following">
+    <img src="https://img.shields.io/badge/Following-3-FCA5A5?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=1a1b27"/>
+  </a>
+  <a href="https://github.com/ws192">
+    <img src="https://img.shields.io/badge/Joined-2019-7DD3FC?style=flat-square&logo=github&logoColor=white&labelColor=1a1b27"/>
+  </a>
+  <a href="https://github.com/ws192">
+    <img src="https://img.shields.io/badge/Account-Active-22C55E?style=flat-square&logo=cachet&logoColor=white&labelColor=1a1b27"/>
+  </a>
+</p>
+
+---
+
+### 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Streak-1_day-00D9FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Longest_Streak-1_day-00D9FF?style=for-the-badge&logo=deno&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Contribution_Graph-Active-22C55E?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Last_Commit-Today-7DD3FC?style=for-the-badge&logo=semanticrelease&logoColor=white&labelColor=1a1b27"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ws192">
+    <img width="98%" src="https://ghchart.rshah.org/00D9FF/ws192" alt="ws192's GitHub Contribution Chart"/>
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅_First_Repo-✅-00D9FF?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/⭐_Star_Maker-⭐-E3B341?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🔀_Pull_Shark-🦈-FCA5A5?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🌱_Growing_Coder-📈-9ECE6A?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/💻_Code_Writer-💡-BB9AF7?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🚀_Open_Source-❤️-F7768A?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🎯_Profile_README-✅-7AA2F7?style=for-the-badge&labelColor=1a1b27"/>
 </p>
 
 ---
