@@ -31,18 +31,20 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎓_M.S.-Sun_Yat_sen_University-7AA2F7?style=for-the-badge&labelColor=1a1b27"/>
+      <p align="center" style="font-size:56px;margin:0;">🏛️</p>
+      <img src="https://img.shields.io/badge/M.S.-Sun_Yat_sen_University-7AA2F7?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1b27"/>
       <br><br>
-      <img src="https://img.shields.io/badge/📚_Major-Resources_and_Environment-BB9AF7?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/Major-Resources_and_Environment-BB9AF7?style=flat-square&logo=openstreetmap&logoColor=white&labelColor=1a1b27"/>
       <br>
-      <img src="https://img.shields.io/badge/📅_2023-2026-56B4C2?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/2023-2026-56B4C2?style=flat-square&logo=calendar&logoColor=white&labelColor=1a1b27"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎓_B.S.-China_Univ._of_Geosciences(Wuhan)-E0AF68?style=for-the-badge&labelColor=1a1b27"/>
+      <p align="center" style="font-size:56px;margin:0;">🎓</p>
+      <img src="https://img.shields.io/badge/B.S.-China_Univ._of_Geosciences(Wuhan)-E0AF68?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1b27"/>
       <br><br>
-      <img src="https://img.shields.io/badge/📚_Major-Computer_Science_%26_Technology-9ECE6A?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/Major-Computer_Science_%26_Technology-9ECE6A?style=flat-square&logo=academia&logoColor=white&labelColor=1a1b27"/>
       <br>
-      <img src="https://img.shields.io/badge/📅_2019-2023-FCA5A5?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/2019-2023-FCA5A5?style=flat-square&logo=calendar&logoColor=white&labelColor=1a1b27"/>
     </td>
   </tr>
 </table>
@@ -54,18 +56,22 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🏢_ByteDance-Volcengine-F7768A?style=for-the-badge&labelColor=1a1b27"/>
+      <img height="52" src="https://cdn.simpleicons.org/bytedance/FE2C55" alt="ByteDance" onerror="this.onerror=null;this.outerHTML='<p align=&#39;center&#39; style=&#39;font-size:40px;margin:0;&#39;>🕺</p>'"/>
       <br><br>
-      <img src="https://img.shields.io/badge/📅_2026_→_Present-FF6B6B?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/ByteDance-Volcengine-F7768A?style=for-the-badge&logo=bytedance&logoColor=white&labelColor=1a1b27"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/2026_→_Present-FF6B6B?style=flat-square&logo=calendar&logoColor=white&labelColor=1a1b27"/>
       <br>
-      <img src="https://img.shields.io/badge/💡_Cloud_Computing-7DD3FC?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/Cloud_Computing-7DD3FC?style=flat-square&logo=alibaba-cloud&logoColor=white&labelColor=1a1b27"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🏢_ByteDance-TikTok_Shop-38BDF8?style=for-the-badge&labelColor=1a1b27"/>
+      <img height="52" src="https://cdn.simpleicons.org/tiktok/00F2EA" alt="TikTok" onerror="this.onerror=null;this.outerHTML='<p align=&#39;center&#39; style=&#39;font-size:40px;margin:0;&#39;>🎵</p>'"/>
       <br><br>
-      <img src="https://img.shields.io/badge/📅_2025-00D9FF?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/ByteDance-TikTok_Shop-38BDF8?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1b27"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/2025-00D9FF?style=flat-square&logo=calendar&logoColor=white&labelColor=1a1b27"/>
       <br>
-      <img src="https://img.shields.io/badge/🛒_E_Commerce-22C55E?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/E_Commerce-22C55E?style=flat-square&logo=shopify&logoColor=white&labelColor=1a1b27"/>
     </td>
   </tr>
 </table>
