@@ -31,16 +31,16 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎓_硕士-中山大学-7AA2F7?style=for-the-badge&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/🎓_M.S.-Sun_Yat_sen_University-7AA2F7?style=for-the-badge&labelColor=1a1b27"/>
       <br><br>
-      <img src="https://img.shields.io/badge/📚_专业-资源_与_环境-BB9AF7?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/📚_Major-Resources_and_Environment-BB9AF7?style=flat-square&labelColor=1a1b27"/>
       <br>
       <img src="https://img.shields.io/badge/📅_2023-2026-56B4C2?style=flat-square&labelColor=1a1b27"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎓_本科-中国地质大学(武汉)-E0AF68?style=for-the-badge&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/🎓_B.S.-China_Univ._of_Geosciences(Wuhan)-E0AF68?style=for-the-badge&labelColor=1a1b27"/>
       <br><br>
-      <img src="https://img.shields.io/badge/📚_专业-计算机科学_与_技术-9ECE6A?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/📚_Major-Computer_Science_%26_Technology-9ECE6A?style=flat-square&labelColor=1a1b27"/>
       <br>
       <img src="https://img.shields.io/badge/📅_2019-2023-FCA5A5?style=flat-square&labelColor=1a1b27"/>
     </td>
@@ -54,18 +54,18 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🏢_字节跳动-火山引擎-F7768A?style=for-the-badge&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/🏢_ByteDance-Volcengine-F7768A?style=for-the-badge&labelColor=1a1b27"/>
       <br><br>
-      <img src="https://img.shields.io/badge/📅_2026_→_Now-FF6B6B?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/📅_2026_→_Present-FF6B6B?style=flat-square&labelColor=1a1b27"/>
       <br>
       <img src="https://img.shields.io/badge/💡_Cloud_Computing-7DD3FC?style=flat-square&labelColor=1a1b27"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🏢_字节跳动-TikTok_Shop-38BDF8?style=for-the-badge&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/🏢_ByteDance-TikTok_Shop-38BDF8?style=for-the-badge&labelColor=1a1b27"/>
       <br><br>
       <img src="https://img.shields.io/badge/📅_2025-00D9FF?style=flat-square&labelColor=1a1b27"/>
       <br>
-      <img src="https://img.shields.io/badge/🛒_E-Commerce-22C55E?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/🛒_E_Commerce-22C55E?style=flat-square&labelColor=1a1b27"/>
     </td>
   </tr>
 </table>
