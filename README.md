@@ -34,7 +34,7 @@
       <p align="center" style="font-size:56px;margin:0;">🏛️</p>
       <img src="https://img.shields.io/badge/M.S.-Sun_Yat_sen_University-7AA2F7?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1b27"/>
       <br><br>
-      <img src="https://img.shields.io/badge/Major-Resources_and_Environment-BB9AF7?style=flat-square&logo=openstreetmap&logoColor=white&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/Major-Resources_%26_Environment-BB9AF7?style=flat-square&logo=openstreetmap&logoColor=white&labelColor=1a1b27"/>
       <br>
       <img src="https://img.shields.io/badge/2023-2026-56B4C2?style=flat-square&logo=calendar&logoColor=white&labelColor=1a1b27"/>
     </td>
