@@ -40,7 +40,7 @@
     </td>
     <td align="center" width="50%">
       <p align="center" style="font-size:56px;margin:0;">🎓</p>
-      <img src="https://img.shields.io/badge/B.S.-China_Univ._of_Geosciences(Wuhan)-E0AF68?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/B.S.-China_Univ._of_Geosciences-E0AF68?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1b27"/>
       <br><br>
       <img src="https://img.shields.io/badge/Major-Computer_Science_%26_Technology-9ECE6A?style=flat-square&logo=academia&logoColor=white&labelColor=1a1b27"/>
       <br>
